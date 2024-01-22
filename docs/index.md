@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Lucrative Business Ideas In Africa
 ---
 
 This is the home page of Rahul's CM3 website.
