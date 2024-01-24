@@ -20,8 +20,7 @@ In this new para we create a numbered list using numbers.
 1. first item
 2. second item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
-
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web.(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwir9qXnmfaDAxXkM0QIHaxUByIQFnoECBAQAQ&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F15-untapped-business-ideas-africa-2023-sabonews-org&usg=AOvVaw2rVb29UXn7OkcROo3I3XOY&opi=89978449)
 You can write code by using triple-ticks:
 
 ```python
